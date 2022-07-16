@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Paulinhoh
 
-2° Periodo - Sistemas de Informação UFS
+📚 Sistemas de Informação UFS - 2° Periodo
 
  <div>
   <a href="https://github.com/Paulinhoh">
