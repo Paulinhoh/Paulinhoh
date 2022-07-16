@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil do Paulinhoh
-
-📚 Sistemas de Informação UFS - 2° Periodo
+:computer: Front-End Developer
+:books: Sistemas de Informação UFS - 2° Periodo
+:statue_of_liberty: Basic English
 
  <div>
   <a href="https://github.com/Paulinhoh">
