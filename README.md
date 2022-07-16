@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Paulinhoh
 
+2° Periodo - Sistemas de Informação UFS
+
  <div>
   <a href="https://github.com/Paulinhoh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulinhoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
