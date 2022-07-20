@@ -1,7 +1,6 @@
 ## Bem-vindo(a) ao perfil do Paulinhoh
-:computer: Front-End Developer   
-:books: Sistemas de Informação UFS - 2° Periodo   
-:statue_of_liberty: Basic English
+:computer: Software Engineer
+:books: Sistemas de Informação UFS - 2° Periodo 
 
  <div>
   <a href="https://github.com/Paulinhoh">
