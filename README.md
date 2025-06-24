@@ -3,4 +3,4 @@
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git)](https://skillicons.dev)
-< !-- [![My Skills](https://skillicons.dev/icons?i=go,python,django,postgresql,aws,docker,git)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=go,python,django,postgresql,aws,docker,git)](https://skillicons.dev) -->
