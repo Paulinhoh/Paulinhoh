@@ -3,4 +3,4 @@
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,postman,mysql,mongodb,git)](https://skillicons.dev)
-<!-- r,kafka,mysql,docker,aws -->
+<!-- cpp,r,kafka,mysql,docker,aws -->
