@@ -2,6 +2,4 @@
 <p>🎓 Estudante de Sistemas de Informação ( Universidade Federal de Sergipe ) </p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,postgres,mysql,mongodb,git)](https://skillicons.dev)
-<!-- kafka,docker,aws,terraform, -->
-
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgres,mongodb,kafka,docker,aws,terraform,git)](https://skillicons.dev)
